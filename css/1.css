@@ -1,0 +1,34 @@
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
+
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.fam{
+    color: white;
+    font-style: italic;
+    font-size:100px;
+    font-family: Georgia, serif;
+    box-sizing: border-box;
+    /* margin: 100px 150px 0px 150px; */
+        margin: 300px 150px 50px 150px;
+
+}
+
+.frnd{
+    color: white;
+    font-style: italic;
+    font-size:100px;
+    font-family: Georgia, serif;
+    box-sizing: border-box;
+    /* margin: 100px 150px 0px 150px; */
+        margin: 500px 150px 50px 150px;
+
+}
